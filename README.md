@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 <br>    🔭 No momento, estou buscando um estágio afim de aprimorar minhas habilidades tanto profissionais e interpessoas, enquanto contribuo em um ambiente de trabalho.<br>    🌱 Estou estudando principalmente Java e MYSQL, mas também pretendo estudar e aprimorar minhas habilidades com Python, Javascript, HTML e CSS.<br>    👯 Cargos relacionados a desenvolvimento de software e administração de bancos de dados.<br>    💬 Fluente em inglês e português, trabalho bem em equipe, e me esforço sempre a manter um ambiente bom e produtivo para meus possíveis colegas.<br>
 
 
